@@ -12,5 +12,5 @@
         android:gravity="center"
         android:layout_margin="15dp"
         android:keepScreenOn="true"
-        android:src="@drawable/rauza_logo_with_tagline_full_color_rgb"/>
+        android:src="@drawable/arcom"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
