@@ -27,7 +27,7 @@ public class FullScreenActivity extends AppCompatActivity {
             public void run() {
                 finish();
             }
-        }, 3000);
+        }, 5000);
     }
     private void RequestPermission() {
         // Check if Android M or higher
